@@ -1,0 +1,1 @@
+The title of my project is "Club Attendance and Information System". To run my file, you should just be able to copy and paste the creation statements, then the insert statements, then the queries one by one.
